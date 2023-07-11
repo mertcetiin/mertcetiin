@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 
-Since 2022, I am a self-motivated and enthusiastic software developer. 
+* Since 2022, I am a self-motivated and enthusiastic software developer. 
 I want to be a good player who pursues a common goal, makes the team great. 
 I always strive to reach the highest possible standard.
 
