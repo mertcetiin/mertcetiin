@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 
-* Since 2022, I am a self-motivated and enthusiastic software developer. 
-I want to be a good player who pursues a common goal, makes the team great. 
-I always strive to reach the highest possible standard.
-
+* Software Developer with a focus on building web applications and specialized software interfaces since 2022. I have
+experience working with Next.js, React, and TypeScript for web platforms, as well as developing desktop
+applications that interact with hardware. I enjoy solving technical problems and collaborating with teams to build
+high-quality products.
 
 
 <h3 align="left">Connect with me:</h3>
