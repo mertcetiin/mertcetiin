@@ -3,13 +3,13 @@
 <h3 align="center">Software Developer building Web Applications & Hardware-Software Integrations</h3>
 
 <p align="center">
-  <a href="https://twitter.com/merttcettin" target="_blank">
+  <a href="https://twitter.com/merttcettin" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/mert-çetin-219b671b0/" target="_blank">
+  <a href="https://www.linkedin.com/in/mert-çetin-219b671b0/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@mertcetiin" target="_blank">
+  <a href="https://medium.com/@mertcetiin" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
@@ -50,10 +50,4 @@ I have been actively developing software since 2022, focusing on building modern
   <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron.js" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&icon_color=38B2AC&text_color=777777" alt="GitHub Stats" />
 </p>
